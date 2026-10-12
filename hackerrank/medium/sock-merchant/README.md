@@ -43,7 +43,7 @@ The second line contains $n$ space-separated integers, $ar[i]$, the colors of th
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-12T12:22:30.009Z  
+**Submitted:** 2026-10-12T13:19:36.466Z  
 
 ```py
 #!/bin/python3
